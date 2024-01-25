@@ -101,6 +101,7 @@ h1 {
 
 .loading-container.active{
     display: flex;
+    height: 100vh;
 }
 
 .loading-container p{
@@ -113,6 +114,7 @@ h1 {
 
 .user-info-container.active{
     display: flex;
+    height: 100vh;
 }
 
 .name{
